@@ -45,8 +45,20 @@
 
 ## Output:
 
-### Name:
-### Register Number:
-
+### Name:S RASIGA
+### Register Number:212225220081
+  step1
+  ![Output](ot1.png)
+  step2
+   ![Output](ot2.png)
+  step3
+   ![Output](ot3.png)
+  step4
+   ![Output](ot4.png)
+  step5
+   ![Output](ot5.png)
+  step6
+    ![Output](ot6.png)
+   
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
